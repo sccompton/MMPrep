@@ -1,0 +1,7 @@
+Challenge 0: Setup
+======As promised, we have put together an exciting collection of material for you to work through before your first day at the Mobile Makers Academy. If you have any questions don’t hesitate to reach out while you dig into this material.
+Step 1: Setup
+======You will need two resources to complete the prep work. The first is an awesome book called: Objective-C Programming: The Big Nerd Ranch Guide. It is available at Amazon: http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/0321706285
+The other resource is our complimentary license to lynda.com. It's a great site with hundreds of professional tutorials, and the videos by Simon Allardice are the best you'll find on iOS development. Soon you will receive an invitation to register for a license to Lynda.com. Please do so, and let me know if you have any trouble at all with signing up.
+Step 2: Challenges
+======The following 4 challenges are required study and preparation for the program. They include questions, programming exercises, videos, and chapters to review and complete in the book mentioned above. We find that most of our Makers are spending roughly 20-30 hours on this.Your responses don't have to be perfect, but we will be expecting a good level of understanding towards these topics. Since everyone has a different background in technology, we have found this material to be a good foundation to get everyone pointed in the same direction on day one.
